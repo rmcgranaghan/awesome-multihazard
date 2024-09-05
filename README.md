@@ -17,7 +17,11 @@ Follows the [awesome](https://github.com/sindresorhus/awesome) list guidance ([W
   - [Resilience](#disaster-risk-reduction)
 - __[Review Articles](#review-articles)__
 - __[Frameworks](#frameworks)__
+- __[Impacts to Critical Infrastructure](#impacts-to-critical-infrastructure)__
+- __[Resilience](#resilience)__
 - __[Datasets and Repositories](#datasets-and-repositories)__
+  - [Individual Hazards](#individual-hazards)
+  - [Critical Infrastructure](#critical-infrastructure)
 - __[Software](#software)__
 - __[Communities and Organizations](#communities-and-organizations)__
 - __[Impact Examples and Stories](#impact-examples-and-stories)__
@@ -49,7 +53,21 @@ Follows the [awesome](https://github.com/sindresorhus/awesome) list guidance ([W
 - [Sendai Framework](https://www.undrr.org/implementing-sendai-framework/what-sendai-framework). The Sendai Framework for Disaster Risk Reduction 2015-2030 outlines seven clear targets and four priorities for action to prevent new and reduce existing disaster risks: (i) Understanding disaster risk; (ii) Strengthening disaster risk governance to manage disaster risk; (iii) Investing in disaster reduction for resilience and; (iv) Enhancing disaster preparedness for effective response, and to "Build Back Better" in recovery, rehabilitation and reconstruction. It aims to achieve the substantial reduction of disaster risk and losses in lives, livelihoods and health and in the economic, physical, social, cultural and environmental assets of persons, businesses, communities and countries over the next 15 years.
 - 
 
+## Impacts to Critical Infrastructure
+
+## Resilience
+- _[Early-warning signals for critical transitions](https://doi.org/10.1038/nature08227)_by Marten Scheffer, Jordi Bascompte, William A. Brock, Victor Brovkin, Stephen R. Carpenter, Vasilis Dakos, Hermann Held, Egbert H. van Nes, Max Rietkerk, and George Sugihara (2009). Complex dynamical systems, ranging from ecosystems to financial markets and the climate, can have tipping points at which a sudden shift to a contrasting dynamical regime may occur. Although predicting such critical points before they are reached is extremely difficult, work in different scientific fields is now suggesting the existence of generic early-warning signals that may indicate for a wide class of systems if a critical threshold is approaching. This article describes `critical slowing down' and its symptoms. 
+
+
 ## Datasets and Repositories
+
+### Individual Hazards
+
+
+### Critical Infrastructure
+- [Homeland Infrastructure Foundation-Level Data](https://hifld-geoplatform.hub.arcgis.com/). Managed by the GMO, HIFLD curates and provides access to geospatial data on U.S. critical infrastructure. Users can view data and download CSV, KML, and Shapefiles for visualization and application development. These data are useful for assessing impact of natural hazards and multi-hazards on downstream societal infrastructure; quantifying exposure and vulnerability. Available open source from _Nature_. 
+- 
+
 
 ## Software
 
