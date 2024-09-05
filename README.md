@@ -56,7 +56,7 @@ Follows the [awesome](https://github.com/sindresorhus/awesome) list guidance ([W
 ## Impacts to Critical Infrastructure
 
 ## Resilience
-- _[Early-warning signals for critical transitions](https://doi.org/10.1038/nature08227)_by Marten Scheffer, Jordi Bascompte, William A. Brock, Victor Brovkin, Stephen R. Carpenter, Vasilis Dakos, Hermann Held, Egbert H. van Nes, Max Rietkerk, and George Sugihara (2009). Complex dynamical systems, ranging from ecosystems to financial markets and the climate, can have tipping points at which a sudden shift to a contrasting dynamical regime may occur. Although predicting such critical points before they are reached is extremely difficult, work in different scientific fields is now suggesting the existence of generic early-warning signals that may indicate for a wide class of systems if a critical threshold is approaching. This article describes `critical slowing down' and its symptoms. 
+- _[Early-warning signals for critical transitions](https://doi.org/10.1038/nature08227)_ cv v. by Marten Scheffer, Jordi Bascompte, William A. Brock, Victor Brovkin, Stephen R. Carpenter, Vasilis Dakos, Hermann Held, Egbert H. van Nes, Max Rietkerk, and George Sugihara (2009). Complex dynamical systems, ranging from ecosystems to financial markets and the climate, can have tipping points at which a sudden shift to a contrasting dynamical regime may occur. Although predicting such critical points before they are reached is extremely difficult, work in different scientific fields is now suggesting the existence of generic early-warning signals that may indicate for a wide class of systems if a critical threshold is approaching. This article describes `critical slowing down' and its symptoms. 
 
 
 ## Datasets and Repositories
