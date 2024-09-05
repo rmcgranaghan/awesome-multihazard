@@ -44,7 +44,7 @@ Follows the [awesome](https://github.com/sindresorhus/awesome) list guidance ([W
   _note: risk is the combination of the probability of occurrence of a natural phenomenon and the magnitude of the consequences (likelihood multiplied by consequence)_
 
   -   _[Routledge Handbook of Risk Studies](https://www.routledge.com/Routledge-Handbook-of-Risk-Studies/Burgess-Alemanno-Zinn/p/book/9780367335922?srsltid=AfmBOoqwQaGMY2V811wwFObgBEYXH--VFzGMYGTlfnKF08HDT9Rc5-vq)_,  Edited By Adam Burgess, Alberto Alemanno, Jens Zinn (2016).
-  -   _[Risk Society: Towards a New Modernity](Ulrich Beck)_. Published in 1986, this is a classic of sociological literature. It provides a panoramic view of Western societies and describes a shift from an industrial society to a new era characterized by technological hazards, the 'risk society.'  It emphasizes the social construction of environmental health risks and the increasing uncertainties and competing knowledge claims related to managing technological environmental hazards.
+  -   _[Risk Society: Towards a New Modernity](https://uk.sagepub.com/en-gb/eur/risk-society/book203184)_ by Ulrich Beck (1986). This is a classic of sociological literature. It provides a panoramic view of Western societies and describes a shift from an industrial society to a new era characterized by technological hazards, the 'risk society.'  It emphasizes the social construction of environmental health risks and the increasing uncertainties and competing knowledge claims related to managing technological environmental hazards.
 
   ### Exposure and Vulnerability
   
