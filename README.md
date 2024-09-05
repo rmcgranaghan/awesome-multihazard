@@ -29,6 +29,7 @@ Follows the [awesome](https://github.com/sindresorhus/awesome) list guidance ([W
   - [Critical Infrastructure](#critical-infrastructure)
 - __[Software](#software)__
 - __[Communities and Organizations](#communities-and-organizations)__
+- __[Events and Conferences](#events-and-conferences)__
 - __[Impact Examples and Stories](#impact-examples-and-stories)__
 - __[Miscellaneous](#miscellaneous)__
 - __[Contributing Guidelines](CONTRIBUTING.md)__
@@ -43,6 +44,7 @@ Follows the [awesome](https://github.com/sindresorhus/awesome) list guidance ([W
   _note: risk is the combination of the probability of occurrence of a natural phenomenon and the magnitude of the consequences (likelihood multiplied by consequence)_
 
   -   _[Routledge Handbook of Risk Studies](https://www.routledge.com/Routledge-Handbook-of-Risk-Studies/Burgess-Alemanno-Zinn/p/book/9780367335922?srsltid=AfmBOoqwQaGMY2V811wwFObgBEYXH--VFzGMYGTlfnKF08HDT9Rc5-vq)_,  Edited By Adam Burgess, Alberto Alemanno, Jens Zinn (2016).
+  -   _[Risk Society: Towards a New Modernity](Ulrich Beck)_. Published in 1986, this is a classic of sociological literature. It provides a panoramic view of Western societies and describes a shift from an industrial society to a new era characterized by technological hazards, the 'risk society.'  It emphasizes the social construction of environmental health risks and the increasing uncertainties and competing knowledge claims related to managing technological environmental hazards.
 
   ### Exposure and Vulnerability
   
@@ -119,12 +121,18 @@ _note: resilience is the property of a system to accommodate changes and reorgan
 - [Integrated Research on Disaster Risk (IRDR)](https://www.preventionweb.net/organization/integrated-research-disaster-risk). An integrated research programme co-sponsored by the International Council for Science (ICSU), the International Social Science Council (ISSC), and the United Nations Office for Disaster Reduction (UNDRR), IRDR fosters a global, multi-disciplinary approach to dealing with the challenges brought by natural disasters, mitigating their impacts, and improving related policy-making mechanisms. IRDR is hosted by the Institute of Remote Sensing and Digital Earth (RADI), Chinese Academy of Sciences.
 - [The Sendai Framework Voluntary Commitments (SFVC) online platform](https://sendaicommitments.undrr.org/). A community-creating platform that allows stakeholders to inform the public about their work on DRR. The SFVC online platform is a useful toolto know who is doing what and where for the implementation of the Sendai Framework, which could foster potential collaboration among stakeholders. All stakeholders (private sector, civil society organizations, academia, media, local governments, etc.) working on DRR can submit their commitments and report on their progress and deliverables.
 - [NASA Earth Science Applied Sciences: Disasters](https://appliedsciences.nasa.gov/what-we-do/disasters). The NASA Disasters program advances science and builds tools to help communities make informed decisions for disaster planning. They develop free and accessible resources that use Earth observations to reveal how natural hazards interact with social vulnerability, exposure, and coping capacity in a changing climate. The goal is to build resilient communities. Includes funding opportunities.
-- 
+- [RiskKAN](https://www.risk-kan.org/). The Knowledge-Action Network on Emergent Risks and Extreme Events aims to facilitate a structured integration and synthesis of scientific expertise with professional and local knowledge on emergent and systemic risks in the context of global environmental change, and thereby also to identify crucial research and practice gaps. By working towards (systemic) risk-aware development, the Risk KAN strives to support a robust achievement of the Sustainable Development Goals.
 
+## Events and Conferences
+- [International Conference on Natural Hazards and Risks in a Changing World](https://www.changingworldrisks2024.eu/). An event that in 2024 had its third instance, Natural Hazards and Risks in a Changing World is a collaboration between [MYRIAD-EU](https://www.myriadproject.eu/) and [RiskKAN](https://www.risk-kan.org/).  
+- [European Geophysical Union (EGU) General Assembly](https://www.egu.eu/meetings/general-assembly/). The annual EGU General Assembly is Europe’s largest and most prominent geosciences event. It attracts more than 16,000 scientists, more than half of which are early career, from all over the world.
+- [American Geophysical Union (AGU) Fall Meeting](https://www.agu.org/annual-meeting). Each year, AGU’s annual meeting, the largest gathering of Earth and space scientists, convenes 25,000+ attendees from 100+ countries to share research and connect with friends and colleagues.
+- 
 
 ## Impact Examples and Stories
 - _[Probabilistic cascading multi-hazard risk assessment methodology using graph theory, a New Zealand trial](https://www.sciencedirect.com/science/article/abs/pii/S221242092031520X)_ by Alexandre Dunant, Mark Bebbington, Tim Davies (2021). Research study that applies a graphical methodology for probabilistic cascading multi-hazard risk assessment in the Franz Josef area (New Zealand). Reveals that `single hazard' approaches will likely underestimate the risk from natural hazards and concludes that the Franz Josef township is under serious threat from natural hazards. Behind a paywall from the International Journal of Disaster Risk Reduction. 
 - [National Geographic Case Study: California Blackouts](https://education.nationalgeographic.org/resource/case-study-california-blackouts/). A case study in how the U.S. state of California mitigated an energy crisis caused by a series of blackouts and developed an action plan to ensure the security of its energy future.
+- _[More floods, fires and cyclones — plan for domino effects on sustainability goals](https://www.nature.com/articles/d41586-021-00927-x)_ by Markus Reichstein, Felix Riede, and Dorothea Frank (2021). Domino effects from hazards are barely considered in most countries’ strategies for achieving the United Nations Sustainable Development Goals (SDGs) by 2030. This is a commentary piece that presents numerous examples of cascading hazards and effects and suggests needed changes across: recognizing risk, modified models, improved indicators, and targeted investment. Available open access from _Nature_.
 - 
 
 ## Miscellaneous
