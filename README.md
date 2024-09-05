@@ -17,12 +17,12 @@ Follows the [awesome](https://github.com/sindresorhus/awesome) list guidance ([W
   - [Resilience](#disaster-risk-reduction)
 - __[Review Articles](#review-articles)__
 - __[Reports](#reports)__
-- __[Glossaries and Vocabularies and Terminology](#glossaries-and-vocabularies-and-terminologies)__
 - __[Frameworks](#frameworks)__
 - __[Impacts to Critical Infrastructure](#impacts-to-critical-infrastructure)__
 - __[Resilience](#resilience)__
 - __[Datasets and Repositories](#datasets-and-repositories)__
-  - [Individual Hazards](#individual-hazards)
+  - [Individual Natural Hazards](#individual-natural-hazards)
+  - [Disasters](#disasters)
   - [Critical Infrastructure](#critical-infrastructure)
 - __[Software](#software)__
 - __[Communities and Organizations](#communities-and-organizations)__
@@ -37,6 +37,8 @@ Follows the [awesome](https://github.com/sindresorhus/awesome) list guidance ([W
   ### Natural Hazards
   
   ### Risk
+  _note: risk is the combination of the probability of occurrence of a natural phenomenon and the magnitude of the consequences (likelihood multiplied by consequence)_
+
   -   _[Routledge Handbook of Risk Studies](https://www.routledge.com/Routledge-Handbook-of-Risk-Studies/Burgess-Alemanno-Zinn/p/book/9780367335922?srsltid=AfmBOoqwQaGMY2V811wwFObgBEYXH--VFzGMYGTlfnKF08HDT9Rc5-vq)_,  Edited By Adam Burgess, Alberto Alemanno, Jens Zinn (2016).
 
   ### Exposure and Vulnerability
@@ -47,7 +49,13 @@ Follows the [awesome](https://github.com/sindresorhus/awesome) list guidance ([W
 ## Review Articles
 - _[A review of quantification methodologies for multi-hazard interrelationships](https://www.sciencedirect.com/science/article/pii/S001282521930025X)_ by Alois Tilloy, Bruce D. Malamud, Hugo Winter, Amelie Joly-Laugel (2019). Review of grey- and peer-review literature to identify and compare current research available for the quantification of hazard interrelations, focussing on 14 different natural hazards. They use a literature database to identify trends for hazard interrelation and multi-hazard and from these group hazard interrelations into five types: triggering, change condition, compound, independence and mutually exclusive. Available open access in Earth-Science Reviews.
 - _[A multi-hazard framework for spatial-temporal impact analysis](https://www.sciencedirect.com/science/article/pii/S2212420922000486?via%3Dihub)_ by Silvia De Angeli, Bruce D. Malamud, Lauro Rossi, Faith E. Taylor, Eva Trasforini, Roberto Rudari (2022). A systematic analysis and organization if available literature on multi-hazard risk. They present a framework to analyze impacts resulting from hazard interactions based on the analysis of spatial and temporal evolution of hazards. Available open access in the International Journal of Disaster Risk Reduction.
-- _[Generic Indicators of Ecological Resilience: Inferring the Chance of a Critical Transition](https://www.annualreviews.org/content/journals/10.1146/annurev-ecolsys-112414-054242)_ by  Marten Scheffer, Stephen R. Carpenter, Vasilis Dakos, and Egbert H. van Nes (2015). They describe an emerging family of methods for quantifying resilience on the basis of observations, particularly in the domain of ecology. Available open access in Annual Review of Ecology, Evolution, and Systematics. 
+- _[Generic Indicators of Ecological Resilience: Inferring the Chance of a Critical Transition](https://www.annualreviews.org/content/journals/10.1146/annurev-ecolsys-112414-054242)_ by  Marten Scheffer, Stephen R. Carpenter, Vasilis Dakos, and Egbert H. van Nes (2015). They describe an emerging family of methods for quantifying resilience on the basis of observations, particularly in the domain of ecology. Available open access in Annual Review of Ecology, Evolution, and Systematics.
+- [Globally networked risks and how to respond](https://www.nature.com/articles/nature12047) by Dirk Helbing (2013). Today’s strongly connected, global networks have produced highly interdependent systems that we do not understand and cannot control well. These systems are vulnerable to failure at all scales, posing serious threats to society, even when external shocks are absent. As the complexity and interaction strengths in our networked world increase, man-made systems can become unstable, creating uncontrollable situations even when decision-makers are well-skilled, have all data and technology at their disposal, and do their best. To make these systems manageable, a fundamental redesign is needed. A ‘Global Systems Science’ might create the required knowledge and paradigm shift in thinking. Available open access from _Nature_.
+- 
+
+## Academic Publications
+- [The fragility of interdependency](https://www.nature.com/articles/464984a) by Alessandro Vespignani (2010). Highlights and provides a perspective on the significance of _[Catastrophic cascade of failures in interdependent networks](https://www.nature.com/articles/nature08932)_ by Buldyrev et al. (2010), which is a study of failures in interconnected networks. The article highlights the vulnerability of tightly coupled infrastructures and shows the need to consider mutually dependent network properties in designing resilient systems. Available open access from _Nature_.
+- 
 
 ## Reports
 - [United Nations Global Assessment Report on Disaster Risk Reduction (GAR)](https://www.undrr.org/gar) The UN Global Assessment Report on Disaster Risk Reduction (GAR) is the flagship report of the United Nations on worldwide efforts to reduce disaster risk. The GAR is published by the UN Office for Disaster Risk Reduction (UNDRR), and is the product of the contributions of nations, public and private disaster risk-related science and research, amongst others. Available freely.
@@ -66,21 +74,30 @@ Follows the [awesome](https://github.com/sindresorhus/awesome) list guidance ([W
 ## Impacts to Critical Infrastructure
 
 ## Resilience
+_note: resilience is the property of a system to accommodate changes and reorganize itself while maintaining the crucial attributes that give the system its unique characteristics [(Scheffer et al. 2001)](https://doi.org/10.1038/35098000)_
+
 - _[Early-warning signals for critical transitions](https://doi.org/10.1038/nature08227)_ cv v. by Marten Scheffer, Jordi Bascompte, William A. Brock, Victor Brovkin, Stephen R. Carpenter, Vasilis Dakos, Hermann Held, Egbert H. van Nes, Max Rietkerk, and George Sugihara (2009). Complex dynamical systems, ranging from ecosystems to financial markets and the climate, can have tipping points at which a sudden shift to a contrasting dynamical regime may occur. Although predicting such critical points before they are reached is extremely difficult, work in different scientific fields is now suggesting the existence of generic early-warning signals that may indicate for a wide class of systems if a critical threshold is approaching. This article describes `critical slowing down' and its symptoms. 
 
 
 ## Datasets and Repositories
 
-### Hazard-Agnostic
-- NASA Jet Propulsion Laboratory [Observational Products for End-Users from Remote Sensing Analysis (OPERA)](https://www.jpl.nasa.gov/go/opera). collects data from satellite radar and optical instruments to generate six product suites: a near-global Surface Water Extent product suite; a near-global Surface Disturbance product suite; a near-global Radiometric Terrain Corrected product; a North America Coregistered Single Look complex product suite; a North America Displacement product suite; and a North America Vertical Land Motion product suite. All data are openly available.
+  ### Hazard-Agnostic
+  - NASA Jet Propulsion Laboratory [Advanced Rapid Imaging and Analysis (ARIA) Project]() (joint with the California Institute of Technology (Caltech)) exploits radar and optical remote sensing, GPS, and seismic observations for hazard science and response, creating the infrastructure to generate imaging products in near real-time that can improve situational awareness for disaster response. The project provides Science Data Products and Urgent Response Products at L2 and L3 levels generated from Synthetic Aperture Radar (SAR), Interferometric Synthetic Aperture Radar (InSAR), and Differential Global Positioning System (DGPS) observations. Some products require a login and others are available login-free. 
+  - NASA Jet Propulsion Laboratory [Observational Products for End-Users from Remote Sensing Analysis (OPERA)](https://www.jpl.nasa.gov/go/opera). collects data from satellite radar and optical instruments to generate six product suites: a near-global Surface Water Extent product suite; a near-global Surface Disturbance product suite; a near-global Radiometric Terrain Corrected product; a North America Coregistered Single Look complex product suite; a North America Displacement product suite; and a North America Vertical Land Motion product suite. All data are openly available.
+  
+  
+  ### Individual Natural Hazards
+  _note: a natural hazard is the physical phenomena that creates risk_
+  
+  
+  ### Disasters
+  _note: a disaster is the state of a natural phenomenon resulting in major consequences for society_
 
-
-### Individual Hazards
-
-
-### Critical Infrastructure
-- [Homeland Infrastructure Foundation-Level Data](https://hifld-geoplatform.hub.arcgis.com/). Managed by the GMO, HIFLD curates and provides access to geospatial data on U.S. critical infrastructure. Users can view data and download CSV, KML, and Shapefiles for visualization and application development. These data are useful for assessing impact of natural hazards and multi-hazards on downstream societal infrastructure; quantifying exposure and vulnerability. Available open source from _Nature_. 
-- 
+  - [The International Disaster Data Set (EM-DAT)](https://www.emdat.be/). EM-DAT contains data on the occurrence and impacts of over 26,000 mass disasters worldwide from 1900 to the present day. The database is compiled from various sources, including UN agencies, non-governmental organizations, reinsurance companies, research institutes, and press agencies. The Centre for Research on the Epidemiology of Disasters (CRED) distributes the data in open access for non-commercial use.
+  
+  ### Critical Infrastructure
+  - [Homeland Infrastructure Foundation-Level Data](https://hifld-geoplatform.hub.arcgis.com/). Managed by the GMO, HIFLD curates and provides access to geospatial data on U.S. critical infrastructure. Users can view data and download CSV, KML, and Shapefiles for visualization and application development. These data are useful for assessing impact of natural hazards and multi-hazards on downstream societal infrastructure; quantifying exposure and vulnerability. Available open source from _Nature_. 
+  - 
 
 
 ## Software
@@ -97,6 +114,7 @@ Follows the [awesome](https://github.com/sindresorhus/awesome) list guidance ([W
 
 ## Impact Examples and Stories
 - _[Probabilistic cascading multi-hazard risk assessment methodology using graph theory, a New Zealand trial](https://www.sciencedirect.com/science/article/abs/pii/S221242092031520X)_ by Alexandre Dunant, Mark Bebbington, Tim Davies (2021). Research study that applies a graphical methodology for probabilistic cascading multi-hazard risk assessment in the Franz Josef area (New Zealand). Reveals that `single hazard' approaches will likely underestimate the risk from natural hazards and concludes that the Franz Josef township is under serious threat from natural hazards. Behind a paywall from the International Journal of Disaster Risk Reduction. 
+- [National Geographic Case Study: California Blackouts](https://education.nationalgeographic.org/resource/case-study-california-blackouts/). A case study in how the U.S. state of California mitigated an energy crisis caused by a series of blackouts and developed an action plan to ensure the security of its energy future.
 - 
 
 ## Miscellaneous
