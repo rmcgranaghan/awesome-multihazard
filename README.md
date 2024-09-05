@@ -16,6 +16,9 @@ Follows the [awesome](https://github.com/sindresorhus/awesome) list guidance ([W
   - [Disaster Risk Reduction](#disaster-risk-reduction)
   - [Resilience](#disaster-risk-reduction)
 - __[Review Articles](#review-articles)__
+- __[Academic Publications](#academic-publications)__
+  - [Multi-hazard Publications](#multi-hazard-publications)
+  - [Infrastructure Publications](#infrastructure-publications)
 - __[Reports](#reports)__
 - __[Frameworks](#frameworks)__
 - __[Impacts to Critical Infrastructure](#impacts-to-critical-infrastructure)__
@@ -50,12 +53,16 @@ Follows the [awesome](https://github.com/sindresorhus/awesome) list guidance ([W
 - _[A review of quantification methodologies for multi-hazard interrelationships](https://www.sciencedirect.com/science/article/pii/S001282521930025X)_ by Alois Tilloy, Bruce D. Malamud, Hugo Winter, Amelie Joly-Laugel (2019). Review of grey- and peer-review literature to identify and compare current research available for the quantification of hazard interrelations, focussing on 14 different natural hazards. They use a literature database to identify trends for hazard interrelation and multi-hazard and from these group hazard interrelations into five types: triggering, change condition, compound, independence and mutually exclusive. Available open access in Earth-Science Reviews.
 - _[A multi-hazard framework for spatial-temporal impact analysis](https://www.sciencedirect.com/science/article/pii/S2212420922000486?via%3Dihub)_ by Silvia De Angeli, Bruce D. Malamud, Lauro Rossi, Faith E. Taylor, Eva Trasforini, Roberto Rudari (2022). A systematic analysis and organization if available literature on multi-hazard risk. They present a framework to analyze impacts resulting from hazard interactions based on the analysis of spatial and temporal evolution of hazards. Available open access in the International Journal of Disaster Risk Reduction.
 - _[Generic Indicators of Ecological Resilience: Inferring the Chance of a Critical Transition](https://www.annualreviews.org/content/journals/10.1146/annurev-ecolsys-112414-054242)_ by  Marten Scheffer, Stephen R. Carpenter, Vasilis Dakos, and Egbert H. van Nes (2015). They describe an emerging family of methods for quantifying resilience on the basis of observations, particularly in the domain of ecology. Available open access in Annual Review of Ecology, Evolution, and Systematics.
-- [Globally networked risks and how to respond](https://www.nature.com/articles/nature12047) by Dirk Helbing (2013). Today’s strongly connected, global networks have produced highly interdependent systems that we do not understand and cannot control well. These systems are vulnerable to failure at all scales, posing serious threats to society, even when external shocks are absent. As the complexity and interaction strengths in our networked world increase, man-made systems can become unstable, creating uncontrollable situations even when decision-makers are well-skilled, have all data and technology at their disposal, and do their best. To make these systems manageable, a fundamental redesign is needed. A ‘Global Systems Science’ might create the required knowledge and paradigm shift in thinking. Available open access from _Nature_.
+- _[Globally networked risks and how to respond](https://www.nature.com/articles/nature12047)_ by Dirk Helbing (2013). Today’s strongly connected, global networks have produced highly interdependent systems that we do not understand and cannot control well. These systems are vulnerable to failure at all scales, posing serious threats to society, even when external shocks are absent. As the complexity and interaction strengths in our networked world increase, man-made systems can become unstable, creating uncontrollable situations even when decision-makers are well-skilled, have all data and technology at their disposal, and do their best. To make these systems manageable, a fundamental redesign is needed. A ‘Global Systems Science’ might create the required knowledge and paradigm shift in thinking. Available open access from _Nature_.
 - 
 
 ## Academic Publications
-- [The fragility of interdependency](https://www.nature.com/articles/464984a) by Alessandro Vespignani (2010). Highlights and provides a perspective on the significance of _[Catastrophic cascade of failures in interdependent networks](https://www.nature.com/articles/nature08932)_ by Buldyrev et al. (2010), which is a study of failures in interconnected networks. The article highlights the vulnerability of tightly coupled infrastructures and shows the need to consider mutually dependent network properties in designing resilient systems. Available open access from _Nature_.
-- 
+  ### Multi-hazard Publications
+  - _[]()_
+
+
+  ### Infrastructure Publications
+  - []() 
 
 ## Reports
 - [United Nations Global Assessment Report on Disaster Risk Reduction (GAR)](https://www.undrr.org/gar) The UN Global Assessment Report on Disaster Risk Reduction (GAR) is the flagship report of the United Nations on worldwide efforts to reduce disaster risk. The GAR is published by the UN Office for Disaster Risk Reduction (UNDRR), and is the product of the contributions of nations, public and private disaster risk-related science and research, amongst others. Available freely.
@@ -72,6 +79,9 @@ Follows the [awesome](https://github.com/sindresorhus/awesome) list guidance ([W
 
 
 ## Impacts to Critical Infrastructure
+- _[The fragility of interdependency](https://www.nature.com/articles/464984a)_ by Alessandro Vespignani (2010). Highlights and provides a perspective on the significance of _[Catastrophic cascade of failures in interdependent networks](https://www.nature.com/articles/nature08932)_ by Buldyrev et al. (2010), which is a study of failures in interconnected networks. The article highlights the vulnerability of tightly coupled infrastructures and shows the need to consider mutually dependent network properties in designing resilient systems. Available open access from _Nature_.
+- [The theory of graceful extensibility: basic rules that govern adaptive systems](https://link.springer.com/article/10.1007/s10669-018-9708-3) by David Woods (2018). The paper introduces the theory of graceful extensibility which expresses fundamental characteristics of the adaptive universe that constrain the search for sustained adaptability. The theory explains the contrast between successful and unsuccessful cases of sustained adaptability for systems that serve human purposes. Sustained adaptability refers to the ability to continue to adapt to changing environments, stakeholders, demands, contexts, and constraints (in effect, to adapt how the system in question adapts). The key new concept at the heart of the theory is graceful extensibility. Graceful extensibility is the opposite of brittleness, where brittleness is a sudden collapse or failure when events push the system up to and beyond its boundaries for handling changing disturbances and variations. As the opposite of brittleness, graceful extensibility is the ability of a system to extend its capacity to adapt when surprise events challenge its boundaries. Behind a paywall from _Environmental Systems and Decisions_.  
+
 
 ## Resilience
 _note: resilience is the property of a system to accommodate changes and reorganize itself while maintaining the crucial attributes that give the system its unique characteristics [(Scheffer et al. 2001)](https://doi.org/10.1038/35098000)_
