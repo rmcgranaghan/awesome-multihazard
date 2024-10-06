@@ -24,6 +24,7 @@ Follows the [awesome](https://github.com/sindresorhus/awesome) list guidance ([W
 - __[Impacts to Critical Infrastructure](#impacts-to-critical-infrastructure)__
 - __[Resilience](#resilience)__
   - [Ways of quantifying resilience](#ways-of-quantifying-resilience)
+- __[Critical Transitions](#critical-transitions)__
 - __[Datasets and Repositories](#datasets-and-repositories)__
   - [Individual Natural Hazards](#individual-natural-hazards)
   - [Disasters](#disasters)
