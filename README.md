@@ -23,6 +23,7 @@ Follows the [awesome](https://github.com/sindresorhus/awesome) list guidance ([W
 - __[Frameworks](#frameworks)__
 - __[Impacts to Critical Infrastructure](#impacts-to-critical-infrastructure)__
 - __[Resilience](#resilience)__
+  - [Ways of quantifying resilience](#ways-of-quantifying-resilience)
 - __[Datasets and Repositories](#datasets-and-repositories)__
   - [Individual Natural Hazards](#individual-natural-hazards)
   - [Disasters](#disasters)
@@ -90,6 +91,14 @@ _note: resilience is the property of a system to accommodate changes and reorgan
 
 - _[Early-warning signals for critical transitions](https://doi.org/10.1038/nature08227)_ cv v. by Marten Scheffer, Jordi Bascompte, William A. Brock, Victor Brovkin, Stephen R. Carpenter, Vasilis Dakos, Hermann Held, Egbert H. van Nes, Max Rietkerk, and George Sugihara (2009). Complex dynamical systems, ranging from ecosystems to financial markets and the climate, can have tipping points at which a sudden shift to a contrasting dynamical regime may occur. Although predicting such critical points before they are reached is extremely difficult, work in different scientific fields is now suggesting the existence of generic early-warning signals that may indicate for a wide class of systems if a critical threshold is approaching. This article describes `critical slowing down' and its symptoms.
 - _[Risk science offers an integrated approach to resilience](https://www.nature.com/articles/s41893-022-00893-w)_ by Tom McLeod Logan, Terje Aven, Seth David Guikema, and Roger Flage (2022). Arguments to separately and independently manage aspects of risk and resilience are incommensurate with wicked challenges--such as climate change. This article claims that the justification of such views is based on misconceptions of risk science that are no longer accurate. In this Perspective piece, they discuss how the modern view of risk can provide an integrated framework for the key aspects of resilience. Available open access from _Nature_. 
+
+### Ways of quantifying resilience
+_note: This sub-section will identify the domain from which that particular quantification of resilience comes from/is used for because these differ across them. In some cases multiple domains will be included._
+
+- ...
+
+## Critical Transitions
+- Marten Scheffer. _[Critical Transitions in Nature and Society](https://press.princeton.edu/books/paperback/9780691122045/critical-transitions-in-nature-and-society)_. Princeton University Press. (2009)
 - 
 
 
