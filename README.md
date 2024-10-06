@@ -99,8 +99,8 @@ _note: This sub-section will identify the domain from which that particular quan
 - ...
 
 ## Critical Transitions
-- Marten Scheffer. _[Critical Transitions in Nature and Society](https://press.princeton.edu/books/paperback/9780691122045/critical-transitions-in-nature-and-society)_. Princeton University Press. (2009)
-- 
+- _[Critical Transitions in Nature and Society](https://press.princeton.edu/books/paperback/9780691122045/critical-transitions-in-nature-and-society)_. Marten Scheffer. Princeton University Press. (2009)
+- _[The Tipping Point: How Little Things Can Make a Big Difference](https://www.goodreads.com/book/show/2612.The_Tipping_Point). Malcolm Gladwell (2002). 
 
 
 ## Datasets and Repositories
