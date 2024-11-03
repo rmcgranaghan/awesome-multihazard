@@ -16,6 +16,7 @@ Follows the [awesome](https://github.com/sindresorhus/awesome) list guidance ([W
   - [Disaster Risk Reduction](#disaster-risk-reduction)
   - [Resilience](#disaster-risk-reduction)
 - __[Review Articles](#review-articles)__
+- __[Libraries or Compilations of Resources](#libraries-or-compilations-of-resources)__
 - __[Academic Publications](#academic-publications)__
   - [Multi-hazard Publications](#multi-hazard-publications)
   - [Infrastructure Publications](#infrastructure-publications)
@@ -58,6 +59,10 @@ Follows the [awesome](https://github.com/sindresorhus/awesome) list guidance ([W
 - _[A multi-hazard framework for spatial-temporal impact analysis](https://www.sciencedirect.com/science/article/pii/S2212420922000486?via%3Dihub)_ by Silvia De Angeli, Bruce D. Malamud, Lauro Rossi, Faith E. Taylor, Eva Trasforini, Roberto Rudari (2022). A systematic analysis and organization if available literature on multi-hazard risk. They present a framework to analyze impacts resulting from hazard interactions based on the analysis of spatial and temporal evolution of hazards. Available open access in the International Journal of Disaster Risk Reduction.
 - _[Generic Indicators of Ecological Resilience: Inferring the Chance of a Critical Transition](https://www.annualreviews.org/content/journals/10.1146/annurev-ecolsys-112414-054242)_ by  Marten Scheffer, Stephen R. Carpenter, Vasilis Dakos, and Egbert H. van Nes (2015). They describe an emerging family of methods for quantifying resilience on the basis of observations, particularly in the domain of ecology. Available open access in Annual Review of Ecology, Evolution, and Systematics.
 - _[Globally networked risks and how to respond](https://www.nature.com/articles/nature12047)_ by Dirk Helbing (2013). Today’s strongly connected, global networks have produced highly interdependent systems that we do not understand and cannot control well. These systems are vulnerable to failure at all scales, posing serious threats to society, even when external shocks are absent. As the complexity and interaction strengths in our networked world increase, man-made systems can become unstable, creating uncontrollable situations even when decision-makers are well-skilled, have all data and technology at their disposal, and do their best. To make these systems manageable, a fundamental redesign is needed. A ‘Global Systems Science’ might create the required knowledge and paradigm shift in thinking. Available open access from _Nature_.
+- 
+
+## Libraries or Compilations of Resources
+- [MYRIAD-EU Project Library](https://www.myriadproject.eu/library/). MYRIAD-EU adopts a systemic and forward-looking approach to offer new ways to assess trade-offs and synergies between economic sectors, hazards and their scales. The Library is a collection of the artifacts from the project and a part of their knowledge sharing efforts.
 - 
 
 ## Academic Publications
@@ -162,6 +167,7 @@ _note: This sub-section will identify the domain from which that particular quan
 - _[Probabilistic cascading multi-hazard risk assessment methodology using graph theory, a New Zealand trial](https://www.sciencedirect.com/science/article/abs/pii/S221242092031520X)_ by Alexandre Dunant, Mark Bebbington, Tim Davies (2021). Research study that applies a graphical methodology for probabilistic cascading multi-hazard risk assessment in the Franz Josef area (New Zealand). Reveals that `single hazard' approaches will likely underestimate the risk from natural hazards and concludes that the Franz Josef township is under serious threat from natural hazards. Behind a paywall from the International Journal of Disaster Risk Reduction. 
 - [National Geographic Case Study: California Blackouts](https://education.nationalgeographic.org/resource/case-study-california-blackouts/). A case study in how the U.S. state of California mitigated an energy crisis caused by a series of blackouts and developed an action plan to ensure the security of its energy future.
 - _[More floods, fires and cyclones — plan for domino effects on sustainability goals](https://www.nature.com/articles/d41586-021-00927-x)_ by Markus Reichstein, Felix Riede, and Dorothea Frank (2021). Domino effects from hazards are barely considered in most countries’ strategies for achieving the United Nations Sustainable Development Goals (SDGs) by 2030. This is a commentary piece that presents numerous examples of cascading hazards and effects and suggests needed changes across: recognizing risk, modified models, improved indicators, and targeted investment. Available open access from _Nature_.
+- _[September 2017's Geoeffective Space Weather and Impacts to Caribbean Radio Communications During Hurricane Response]_ by R. J. Redmon, D. B. Seaton, R. Steenburgh, J. He, and J. V. Rodriguez (2018). An unlucky coincidence of space and Earth weather in early September 2017 caused radio blackouts for hours during critical hurricane emergency response efforts. The study details how the events on the Sun and Earth unfolded side-by-side.
 - 
 
 ## Miscellaneous
