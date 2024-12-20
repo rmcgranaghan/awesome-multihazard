@@ -4,7 +4,12 @@ A curated list of multi-hazard science, analysis, application, and impact
 
 Follows the [awesome](https://github.com/sindresorhus/awesome) list guidance ([What is an awesome list?](https://github.com/sindresorhus/awesome/blob/main/awesome.md)) and inspired by [Awesome Network Analysis](https://github.com/briatte/awesome-network-analysis#python), [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning), and others.  Started in 2024, and updated irregularly since then. 
 
-
+## Related awesome lists: 
+- [Awesome Risk Quantification](https://github.com/veeral-patel/awesome-risk-quantification) Awesome list for risk quantification detailing attempts to assign numeric values to risks.
+- [Awesome-Spatial](https://github.com/softwareunderground/awesome-open-geoscience) Awesome list for geospatial, not specific to geoscience or hazards but significant overlap.
+- [Awesome GIS](https://github.com/sshuair/awesome-gis) Awesome list related to all things Geographic Information Systems (GIS).
+- [Awesome Open Climate Science](https://github.com/pangeo-data/awesome-open-climate-science) Awesome list for atmospheric, ocean, climate, and hydrologic science.
+- [Awesome Earth Artificial Intelligence](https://github.com/ESIPFed/Awesome-Earth-Artificial-Intelligence) Awesome list for artificial intelligence use cases in Earth Science maintinaed by ESIP (Earth Science Information Partners, which is a earth science informatics community) Machine Learning Cluster.
 
 ## Contents
 
