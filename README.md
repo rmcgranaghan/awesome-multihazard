@@ -74,6 +74,8 @@ Follows the [awesome](https://github.com/sindresorhus/awesome) list guidance ([W
 ## Academic Publications
   ### Multi-hazard Publications
   - _[Multihazards Scenario Generator: A Network-Based Simulation of Natural Disasters](https://onlinelibrary.wiley.com/doi/10.1111/risa.13723)_ by Alexandre Dunant, Mark Bebbington, Tim Davies, Pascal Horton (2021). The ability to generate multihazard scenarios with impacts at a desired level is important for emergency planning and resilience assessment. This article demonstrates a framework for using graph theory and networks to generate and model the complex impacts of multihazard scenarios. Available behind a paywall from _Risk Analysis_.
+  - _[Global multi-hazard risk assessment in a changing climate](https://www.nature.com/articles/s41598-024-55775-2)_ by Zélie Stalhandske, Carmen B. Steinmann, Simona Meiler, Inga J. Sauer, Thomas Vogt, David N. Bresch & Chahan M. Kropf. Presents a framework for modelling multi-hazard risks globally in a consistent way, considering hazards, exposures, vulnerabilities, and assumptions on recovery. It illustrates the approach using river floods and tropical cyclones impacting people and physical assets on a global scale in a changing climate and demonstrates the difference when considering only single hazards and multi-hazards. Available open access from _Nature_.
+  - 
 
 
 
