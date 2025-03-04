@@ -28,6 +28,7 @@ Follows the [awesome](https://github.com/sindresorhus/awesome) list guidance ([W
 - __[Reports](#reports)__
 - __[Frameworks](#frameworks)__
 - __[Impacts to Critical Infrastructure](#impacts-to-critical-infrastructure)__
+- __[Risk Perception](#risk-perception)__
 - __[Resilience](#resilience)__
   - [Ways of quantifying resilience](#ways-of-quantifying-resilience)
 - __[Critical Transitions](#critical-transitions)__
