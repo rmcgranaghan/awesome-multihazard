@@ -114,7 +114,7 @@ Follows the [awesome](https://github.com/sindresorhus/awesome) list guidance ([W
 ## Risk Perception
 - See 'Risk Society' above under Books
 - _[Storylines: an alternative approach to representing uncertainty in physical aspects of climate change]()_ by Shepherd et al. The authors define a storyline as a physically self-consistent unfolding of past events, or of plausible future events or pathways. No a priori probability of the storyline is assessed; emphasis is placed instead on understanding the driving factors involved, and the plausibility of those factors. Presents four reasons for the storyline approach. Available open access from _Climatic Change_.
-- 
+- _[Decision-making under the deep uncertainty of climate change: The psychological and political agency of narratives](https://www.sciencedirect.com/science/article/abs/pii/S2352250X21002256)_ by Sara Constantino and Elke Weber (2021). The multitude of plausible future ecological and biosphere scenarios and their dependence on actions taken today create challenges for planning, governance, and collective action. While there is a long history in psychology and economics of studying decision-making under uncertainty, the authors argue that the deep uncertainty inherent in climate change cannot be easily understood using these same paradigms. In this context, narratives—stories about how the world works, what the future will look like, and our own role in this process—can extend cognition, creating shared knowledge across space and time, and shape our beliefs, values and actions in the face of tremendous uncertainty.
 
 
 ## Resilience
